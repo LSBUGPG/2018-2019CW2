@@ -1,0 +1,13 @@
+Created by Sebastian Moreno-arroyave
+All packages are my own and the final package game only uses the packages that i have created.
+Unity version used to create this is 2018.3.2f1
+
+
+Explanation of game
+the final game is about running away from a giant red wall that is chasing the player, if the player or the players balls
+comes into contect with the following object then the player will be spawned into the failure room, you need to restart
+the game in order to try again. to win the player has to get through the path, green blocks can be destroyed by balls,
+which the player can spawn with space, red blocks cannot be destroyed so you must go around them. the player must make sure that they 
+push their own balls off the map by walking into them due to the fact that if the players balls comes into contact with the 
+red wall then it will still teleport them to the failure room, once the player makes their way through the path to the end they must 
+fall down onto the purple platform where they will respawn in the victory room to show that they have successfully completed the challenge.

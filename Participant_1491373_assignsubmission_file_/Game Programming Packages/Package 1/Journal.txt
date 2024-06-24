@@ -1,0 +1,12 @@
+April 22 2019
+
+I have creating creating the first package, in which I will attemmp to switch between first person and third person camera.
+
+Created the scripts for player movement, the camera mode switch and a script to move the camera in-game.
+
+The process of writing the scripts wasn't as difficult as I orriginally thought, as the only thing that I need to remember when doing something like this again is to add in the project setting a new axes.
+
+
+
+
+After package creation: Remember to add in the project settings in the edit tab an extra axes, rename it to 'Camera' and for the 'Possitive button' write 'c' as the button to switch between first person and third person camera.

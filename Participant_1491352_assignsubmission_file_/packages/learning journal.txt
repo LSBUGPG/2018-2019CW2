@@ -1,0 +1,8 @@
+Learning journal
+At the start of this project I wanted to create a simple game that can challenge a player. So I thought about how to use an enemy and came up with using an enemy patrol. I thought it would be challenging for me to do.  
+I wanted a simple player control to have below the camera where the player has to turn to move in a direction. 
+I also wanted a camera to hover over the player like it was following the player. I found a really good tutorial showing how to use a camera. I think it came out really well.
+I then found a really good enemy patrolling tutorial that really helped. But I wanted the player to have to respawn once it hit the enemy and come back again. I found a simple way of tagging the enemy and once the player hits the enemy the player is put back to the respawn point. 
+The next thing I wanted the player to have an objective to have to get past the patrolling enemy’s and have a pick up. So I made a cube for the player to pick up having a goal. I added more enemies to make it more challenging with different patrolling patens.   
+I created some art assets to bring the game together just making it a bit better looking. 
+Overall I like the final outcome I think the patrolling enemies and 3rd person camera worked really well. I would have liked to put more work into an object to pick up. I would have also liked a different patrol paten. 

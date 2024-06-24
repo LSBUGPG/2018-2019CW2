@@ -1,0 +1,4 @@
+April 22 2019
+
+Package number 3 has begun,as I now tackle the creation of a minimap.
+The script was not that much of a trouble, thank you youtube, what took some time was to make the canvas, use 2 images, one as a white background for the image that is named 'Minimap', added a new camera for the top view that would become the minimap and added a new asset called the render texture, which ties it all nicely

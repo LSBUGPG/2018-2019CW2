@@ -1,0 +1,5 @@
+April 22 2019
+
+Final package for the cousework, and I have decided to make an enemy spawner that uses the Ai chase from package 2
+
+Scripting the spawner was interesting, as there are lots of ways to do it, the one thing that i want to remember from this is the 'WaitForSeconds' function, that can come in handy for future projects

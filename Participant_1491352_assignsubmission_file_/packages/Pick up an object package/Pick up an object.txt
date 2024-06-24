@@ -1,0 +1,10 @@
+Programming Task Log
+
+Date | Start | End | Interruptions | Time (H) | Task
+-----|-------|-----|---------------|----------|-----
+5/4/19 | 12:00 | 12:30 | - | 0.00 | tutorials
+5/4/19 | 12:30 | 13:00 | - | 0.05 | tesing code
+5/4/19 | 13:00 | 13:05 | - | 0.00 | wiritng code
+5/4/19 | 13:05 | 13:20 | - | 0.10 | Test the code
+5/4/19 | 13:20 | 13:26 | - | 0.00 | Write up tutorial
+

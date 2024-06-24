@@ -1,0 +1,5 @@
+April 22 2019
+
+Today I began creating package number 2, something that I have done before, AI chasing the player with the help of Nav Mesh components.
+
+Scripting very easy, remembering that for anyone who wants the Nav Mesh COmponents, they can be downloaded from here: https://github.com/Unity-Technologies/NavMeshComponents

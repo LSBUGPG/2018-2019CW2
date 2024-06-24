@@ -1,0 +1,4 @@
+Arrow key to move.
+
+Aim of the game is to get over invisible walls.
+
